@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hello, I'm Glenn Trace
 
-<!--
-**GTrace2/GTrace2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science Analyst | Master of Science in Data Science
 
-Here are some ideas to get you started:
+<div align="left"> 
+  <a href="mailto:gtrace1910@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://www.linkedin.com/in/glenn-trace/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+I am a dynamic Data Science Analyst passionate about unraveling the transformative potential of data within the insurance sector. With a unique blend of analytical prowess and industry insight, I navigate the complexities of insurance data. My journey involves translating intricate datasets into strategic insights, shaping the future of risk management, and enhancing the overall efficacy of data-driven decision-making in insurance.
+
+<br>
+
+<div align="left">
+ 
+- 🔭 I’m currently working on **Insurance Data Science Projects**
+- 🌱 I’m currently learning more about **Advanced Machine Learning and AI**
+- 💬 Ask me about **Data Science in Insurance**
+- 📧 Reach me out: gtrace1910@gmail.com
+
+</div>
+
+## ⚒️ Languages-Frameworks-Tools ⚒️
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,github,tensorflow" /><br>
+</div>
+
+<br/>
+
+## 💻 Skills 💻
+
+- **Technical**: Python, R, SQL, C#, Data Visualization, Predictive Modeling, Machine Learning, NLP
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, SciPy, PyTorch, Matplotlib, Keras, Plotly
+- **Tools**: MS Excel, JupyterLab, GitHub, SQL, AWS
+
+## 📊 Github Stats 📊
+
+![Glenn Trace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GTrace2&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GTrace2&show_icons=true&theme=radical)
