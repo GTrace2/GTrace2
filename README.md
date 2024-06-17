@@ -33,12 +33,7 @@ I am a dynamic Data Science Analyst passionate about unraveling the transformati
 </div>
 
 <br/>
-
-## 💻 Skills 💻
-
-- **Technical**: Python, R, SQL, C#, Data Visualization, Predictive Modeling, Machine Learning, NLP
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, SciPy, PyTorch, Matplotlib, Keras, Plotly
-- **Tools**: MS Excel, JupyterLab, GitHub, SQL, AWS
+ 
 
 ## 📊 Github Stats 📊
 
