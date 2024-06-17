@@ -38,4 +38,3 @@ I am a dynamic Data Science Analyst passionate about unraveling the transformati
 ## 📊 Github Stats 📊
 
 ![Glenn Trace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GTrace2&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GTrace2&show_icons=true&theme=radical)
