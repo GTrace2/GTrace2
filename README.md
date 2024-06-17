@@ -13,7 +13,7 @@
 
 <br>
 
-I am a dynamic Data Science Analyst passionate about unraveling the transformative potential of data within the insurance sector. With a unique blend of analytical prowess and industry insight, I navigate the complexities of insurance data. My journey involves translating intricate datasets into strategic insights, shaping the future of risk management, and enhancing the overall efficacy of data-driven decision-making in insurance.
+I am a dynamic Data Science Analyst passionate about unlocking the transformative potential of data. With a unique blend of analytical expertise and industry insight, I navigate the complexities of diverse datasets. My journey involves translating intricate data into strategic insights, shaping the future of data-driven decision-making, and enhancing the overall efficacy of analytics within various sectors.
 
 <br>
 
