@@ -21,7 +21,7 @@ I am a dynamic Data Science Analyst passionate about unlocking the transformativ
  
 - 🔭 I’m currently working on **Insurance Data Science Projects**
 - 🌱 I’m currently learning more about **Advanced Machine Learning and AI**
-- 💬 Ask me about **Data Science in Insurance**
+- 💬 Ask me about **Data Science**
 - 📧 Reach me out: gtrace1910@gmail.com
 
 </div>
